@@ -5,6 +5,7 @@ class FirstDemo{
 	
 	public static void main(String...abc){
  		int i=100;
+		String adress="Bangalore";
       	        String a="sai";
 		System.out.println("Hello how are you where  are you");
 		System.out.println(a);
