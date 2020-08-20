@@ -7,7 +7,7 @@ class FirstDemo{
  		int i=100;
 		String adress="Bangalore";
 
-		String s2="Mumbai";
+		String s2="Navi_Mumbai";
 		String s2="Hyderabad";
      	        String a="sai";
 		System.out.println("Hello how are you where  are you");
