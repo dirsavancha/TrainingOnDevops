@@ -5,7 +5,7 @@ class FirstDemo{
 	
 	public static void main(String...abc){
  		int i=100;
-		String adress="Bangalore";
+		String adress="BangaloreUrban";
 
 		String s2="Navi_Mumbai";
 		String s2="Hyderabad";
