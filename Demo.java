@@ -10,6 +10,8 @@ class FirstDemo{
 		String s2="Navi_Mumbai";
 		String s2="Hyderabad";
      	        String a="sai";
+		String s3="Chennai";
+		String s4="Delhi";
 		System.out.println("Hello how are you where  are you");
 		System.out.println(a);
 		System.out.println(i);
