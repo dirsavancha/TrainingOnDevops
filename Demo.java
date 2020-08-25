@@ -10,7 +10,9 @@ class FirstDemo{
 		String s2="Navi_Mumbai";
 		String s2="Hyderabad";
      	        String a="sai";
-		String s3="Chennai555";
+String s3="Chennai555";
+		String s3="Chennai123";
+
 		String s4="Delhi123456";
 		System.out.println("Hello how are you where  are you");
 		System.out.println(a);
